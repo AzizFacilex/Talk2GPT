@@ -18,6 +18,8 @@ The following dependencies are required to run Talk2GPT:
     pygame
     google-cloud-texttospeech
     pydub
+    
+    Install the required packages: pip install -r requirements.txt
 
 In addition, you will need to have an OpenAI API key and a Whisper API key in order to use the application.
 

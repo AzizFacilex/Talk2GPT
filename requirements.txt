@@ -1,0 +1,5 @@
+pyaudio==0.2.13
+wave==0.0.2
+openai==0.27.0
+pygame==2.3.0
+google-cloud-texttospeech==2.14.1

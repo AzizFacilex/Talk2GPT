@@ -1,3 +1,4 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 # Talk2GPT
 
 Talk2GPT is a Python-based application that allows users to interact with OpenAI's GPT-3.5 Turbo language model using voice input. The application leverages an Automatic Speech Recognition (ASR) system to transcribe audio input from users and the Whisper API to perform transcription. The GPT-3.5 Turbo model is then used to generate responses to user queries.

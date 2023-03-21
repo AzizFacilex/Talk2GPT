@@ -38,4 +38,4 @@ If you would like to contribute to Talk2GPT, please feel free to submit a pull r
 
 ## License
 
-License: This project is licensed under the GNU Affero General Public License v3.0. See the LICENSE file for more details.
+License: This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
